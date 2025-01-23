@@ -48,7 +48,7 @@ A modern, feature-rich todo application built with React, Redux, and TypeScript.
 
 ### Dark Mode
 
-![Dark Mode](gitpics\Arc_jTKOZPUElb.png)
+![Dark Mode](https://i.ibb.co/cYvJ1YV/Arc-Xd7eg-Oohd-R.png)
 
 ## Technical Stack
 
