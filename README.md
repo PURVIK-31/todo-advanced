@@ -2,7 +2,7 @@
 
 A modern, feature-rich todo application built with React, Redux, and TypeScript. The application offers a beautiful, responsive interface with dark mode support and advanced task management features.
 
-![Todo App Light Mode](gitpics\Arc_jTKOZPUElb.png)
+![Todo App Light Mode](https://ibb.co/B2xc4p7)
 
 ## Features
 
